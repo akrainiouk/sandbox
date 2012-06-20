@@ -2,7 +2,7 @@
 <model modelUID="r:ca86b386-27c9-46d2-9a44-97d1965234a0(scala.textGen)" version="0">
   <persistence version="7" />
   <language namespace="b83431fe-5c8f-40bc-8a36-65e25f4dd253(jetbrains.mps.lang.textGen)" />
-  <language namespace="f56e71ab-00d3-4a4b-83ba-3576403815ba(scalaclasses)" />
+  <language namespace="f56e71ab-00d3-4a4b-83ba-3576403815ba(scala)" />
   <devkit namespace="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
   <import index="z57y" modelUID="r:074115a1-0f89-4f51-8893-b30f25be89d1(scala.structure)" version="1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
